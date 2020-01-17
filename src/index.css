@@ -1,0 +1,13 @@
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+.sort {
+  float: right;
+}
